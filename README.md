@@ -13,6 +13,7 @@ Predict which passengers survived from the sinking Titanic.
 
 ### Data
 train.csv: 891 passengers with 12 attributes, including the labels (survived or dead)
+<br>
 test.csv: 418 passengers with 11 attributes
 
 ### Reference
