@@ -5,6 +5,15 @@ The sinking of Titanic is one of the most infamous shipwrecks in history. 1502 o
 ### Objective
 Use the passenger data to predict which of them survived from the sinking Titanic.
 
+
+### Data
+train.csv: 891 passengers with 12 attributes, including the labels (survived or dead)<br>
+test.csv: 418 passengers with 11 attributes
+
+
+### Results
+Feature engineering and a neural network solution using Keras are shown in ``titanic.ipynb``.
+
 ### Required libraries
 - NumPy
 - Pandas
@@ -12,10 +21,6 @@ Use the passenger data to predict which of them survived from the sinking Titani
 - seaborn
 - matlibplot
 - Keras
-
-### Data
-train.csv: 891 passengers with 12 attributes, including the labels (survived or dead)<br>
-test.csv: 418 passengers with 11 attributes
 
 ### Reference
 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
