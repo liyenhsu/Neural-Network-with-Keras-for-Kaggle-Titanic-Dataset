@@ -12,15 +12,15 @@ test.csv: 418 passengers with 11 attributes
 
 
 ### Results
-Feature engineering and a neural network solution using Keras are shown in ``titanic.ipynb``.
+Feature engineering and a neural network solution using Keras are shown in [titanic.ipynb](titanic.ipynb).
 
 ### Required libraries
-- NumPy
-- Pandas
-- scikit-learn
-- seaborn
-- matlibplot
-- Keras
+- ``NumPy``
+- ``Pandas``
+- ``scikit-learn``
+- ``seaborn``
+- ``matlibplot``
+- ``Keras``
 
 ### Reference
 [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
