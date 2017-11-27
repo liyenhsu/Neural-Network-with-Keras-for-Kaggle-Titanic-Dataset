@@ -19,7 +19,7 @@ Feature engineering and a neural network solution using Keras are shown in [tita
 - ``Pandas``
 - ``scikit-learn``
 - ``seaborn``
-- ``matlibplot``
+- ``matplotlib``
 - ``Keras``
 
 ### Reference
